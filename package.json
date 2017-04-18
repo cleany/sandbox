@@ -1,0 +1,19 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "This is a sandbox for testing purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleany/sandbox.git"
+  },
+  "author": "Sébastien Boulle",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cleany/sandbox/issues"
+  },
+  "homepage": "https://github.com/cleany/sandbox#readme"
+}
